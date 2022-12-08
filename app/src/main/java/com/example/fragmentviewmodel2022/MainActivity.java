@@ -20,6 +20,8 @@ public class MainActivity extends AppCompatActivity {
         // some foo change in myNewBranch
         // some change in main branch
 
+        // some foo change in myNewBranch
+
         if (savedInstanceState == null) {
 
             // container one
