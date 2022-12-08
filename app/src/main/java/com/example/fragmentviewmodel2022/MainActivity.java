@@ -17,6 +17,8 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
 
+        // some foo change in myNewBranch
+
         if (savedInstanceState == null) {
 
             // container one
