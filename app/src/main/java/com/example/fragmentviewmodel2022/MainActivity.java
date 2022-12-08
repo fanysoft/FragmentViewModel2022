@@ -18,6 +18,7 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
 
         // some foo change in myNewBranch
+        // some change in main branch
 
         if (savedInstanceState == null) {
 
